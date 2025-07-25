@@ -1,5 +1,5 @@
 # 👋🏼 Hi, I'm Vitto!
-### I’m a Senior Front-End Engineer with 8+ years of experience based in South East Asia / APAC (Indonesia)
+### I’m a Front-End Engineer with 8+ years of experience based in South East Asia / APAC (Indonesia)
 
 I have extensive experience working in agile environment building scalable web applications with React.js, TypeScript, and Next.js. Passionate about performance optimization, clean architecture, and delivering high-impact user experiences.
 
